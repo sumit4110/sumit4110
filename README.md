@@ -1,5 +1,17 @@
-# 💫 About Me:
-i'm BCA graduate ready to start my carrer in web developing<br>focusing on mern stack<br>adaptive to new technologies<br>quick learner
+# 👋 About Me
+
+Hi there! I'm a passionate and self-motivated **BCA graduate** ready to kickstart my career in **full-stack web development**. I’m currently diving deep into the **MERN stack** (MongoDB, Express.js, React, Node.js).
+
+---
+
+## 🚀 What I Bring to the Table
+
+- 💡 Strong foundation in **computer applications**, **programming**, and **problem-solving**
+- 🧱 Hands-on experience building **responsive, full-stack applications**
+- 🔄 Familiar with **Git/GitHub** and modern **development practices**
+- 🌱 Always learning and improving – currently exploring **REST APIs** and **Node.js**
+
+---
 
 
 ## 🌐 Socials:
